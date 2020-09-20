@@ -1,0 +1,17 @@
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\CurrencyConverter.Tests.dll
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\CurrencyConverter.Tests.pdb
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\CurrencyConverter.exe
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\CurrencyConverter.pdb
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\obj\Debug\CurrencyConverter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\obj\Debug\CurrencyConverter.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\obj\Debug\CurrencyConverter.Tests.dll
+C:\Users\Sam\Desktop\JobStuff\Pharmacy2U_Task\CurrencyConverter\CurrencyConverter.Tests\obj\Debug\CurrencyConverter.Tests.pdb

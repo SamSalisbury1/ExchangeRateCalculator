@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Conversions>
+  <Conversion DateTime="20/09/2020 12:05:44" Amount="£3" Currency="USD" ExchangedAmount="$3.87" />
+  <Conversion DateTime="20/09/2020 12:05:49" Amount="£1.99" Currency="AUD" ExchangedAmount="$3.52" />
+  <Conversion DateTime="20/09/2020 12:05:56" Amount="£11.87" Currency="EUR" ExchangedAmount="€12.94" />
+  <Conversion DateTime="20/09/2020 14:10:48" Amount="£600" Currency="USD" ExchangedAmount="$774" />
+  <Conversion DateTime="20/09/2020 14:34:37" Amount="£999.99" Currency="EUR" ExchangedAmount="€1089.99" />
+  <Conversion DateTime="20/09/2020 16:00:51" Amount="£69.15" Currency="EUR" ExchangedAmount="€75.37" />
+  <Conversion DateTime="20/09/2020 16:13:36" Amount="£6" Currency="EUR" ExchangedAmount="€6.54" />
+  <Conversion DateTime="20/09/2020 16:39:21" Amount="£2" Currency="USD" ExchangedAmount="$2.58" />
+  <Conversion DateTime="20/09/2020 18:13:19" Amount="£2" Currency="USD" ExchangedAmount="$2.58" />
+  <Conversion DateTime="20/09/2020 18:13:49" Amount="£2.88" Currency="AUD" ExchangedAmount="$5.1" />
+</Conversions>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Conversions>
+  <Conversion DateTime="20/09/2020 17:53:57" Amount="£1" Currency="USD" ExchangedAmount="$1.22" />
+  <Conversion DateTime="20/09/2020 17:55:04" Amount="£1" Currency="USD" ExchangedAmount="$1.22" />
+  <Conversion DateTime="20/09/2020 17:55:40" Amount="£1" Currency="USD" ExchangedAmount="$1.22" />
+  <Conversion DateTime="20/09/2020 18:06:39" Amount="£1" Currency="USD" ExchangedAmount="$1.22" />
+  <Conversion DateTime="20/09/2020 18:16:56" Amount="£1" Currency="USD" ExchangedAmount="$1.22" />
+</Conversions>
