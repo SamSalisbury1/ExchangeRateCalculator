@@ -1,4 +1,4 @@
-# Pharmacy2UTask
+# Exchange Rate Calculator
 
 On the main page enter a number in the text field next to the pound sign, (Only acceptable input is input that can be parsed to a double. Then using combo box on the right to select the currency you would like to exchange pounds to. Press calculate and the result will appear in the input box below labelled result. Once the calculation button is pressed a log containing the amount converted, chosen currency and result of the exchange will be saved in an XML file. Press View Logs to open a new dialogue for viewing saved logs.
 
